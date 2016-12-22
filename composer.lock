@@ -1,0 +1,121 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c8d3d513359baea56afc88536312220c",
+    "content-hash": "36e4b268a05dfb917255973a42a56eaa",
+    "packages": [
+        {
+            "name": "websharks/wp-php-rv",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/websharks/wp-php-rv.git",
+                "reference": "ba924e906e842f6fe102f7cc74cfd00241ca45ac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/websharks/wp-php-rv/zipball/ba924e906e842f6fe102f7cc74cfd00241ca45ac",
+                "reference": "ba924e906e842f6fe102f7cc74cfd00241ca45ac",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "jaswsinc",
+                    "homepage": "https://jaswsinc.com",
+                    "role": "developer"
+                },
+                {
+                    "name": "raamdev",
+                    "homepage": "http://raam.org",
+                    "role": "developer"
+                },
+                {
+                    "name": "wpsharks",
+                    "homepage": "https://wpsharks.com",
+                    "role": "company"
+                }
+            ],
+            "description": "Stub for WordPress themes/plugins that require PHP vX.x+.",
+            "homepage": "https://github.com/websharks/wp-php-rv",
+            "keywords": [
+                "php",
+                "websharks",
+                "wordpress",
+                "wpsharks"
+            ],
+            "time": "2016-09-10 19:48:18"
+        },
+        {
+            "name": "websharks/wp-sharks-core-rv",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/websharks/wp-sharks-core-rv.git",
+                "reference": "af49c0fa7eb60035bb1bd17b65d159669258479d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/websharks/wp-sharks-core-rv/zipball/af49c0fa7eb60035bb1bd17b65d159669258479d",
+                "reference": "af49c0fa7eb60035bb1bd17b65d159669258479d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.4"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "jaswsinc",
+                    "homepage": "https://jaswsinc.com",
+                    "role": "developer"
+                },
+                {
+                    "name": "raamdev",
+                    "homepage": "http://raam.org",
+                    "role": "developer"
+                },
+                {
+                    "name": "wpsharks",
+                    "homepage": "https://wpsharks.com",
+                    "role": "company"
+                }
+            ],
+            "description": "Stub for WordPress themes/plugins that require the WP Sharks™ Core.",
+            "homepage": "https://github.com/websharks/wp-sharks-core-rv",
+            "keywords": [
+                "websharks",
+                "wordpress",
+                "wpsharks"
+            ],
+            "time": "2016-09-10 19:44:12"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "websharks/wp-php-rv": 20,
+        "websharks/wp-sharks-core-rv": 20
+    },
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php-64bit": ">=7.0.4"
+    },
+    "platform-dev": []
+}
