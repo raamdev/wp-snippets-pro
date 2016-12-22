@@ -1,3 +1,4 @@
-## v161222.26385
+## $v
 
 - Initial release.
+- Backward compatible with the original WP Snippets plugin.
