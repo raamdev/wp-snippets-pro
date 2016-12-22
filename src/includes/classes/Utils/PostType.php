@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Post type utils.
  *
- * @since $v Initial release.
+ * @since 161222.28602 Initial release.
  */
 class PostType extends SCoreClasses\SCore\Base\Core
 {
     /**
      * All caps.
      *
-     * @since $v
+     * @since 161222.28602
      *
      * @type array All caps.
      */
@@ -47,7 +47,7 @@ class PostType extends SCoreClasses\SCore\Base\Core
     /**
      * All vendor caps.
      *
-     * @since $v
+     * @since 161222.28602
      *
      * @type array All vendor caps.
      */
@@ -56,7 +56,7 @@ class PostType extends SCoreClasses\SCore\Base\Core
     /**
      * Class constructor.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param Classes\App $App Instance.
      */
@@ -90,7 +90,7 @@ class PostType extends SCoreClasses\SCore\Base\Core
     /**
      * On WP `init` hook.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      */
     public function onInit()
     {

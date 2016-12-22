@@ -2,9 +2,9 @@
 # This file is distributed under the same license as the WP Snippets Pro package.
 msgid ""
 msgstr ""
-"Project-Id-Version: WP Snippets Pro 161222.26385\n"
+"Project-Id-Version: WP Snippets Pro 161222.28602\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-snippets-pro\n"
-"POT-Creation-Date: 2016-12-22 07:20:44+00:00\n"
+"POT-Creation-Date: 2016-12-22 07:57:00+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,260 +12,264 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
+#: src/includes/classes/Utils/MenuPage.php:47
+msgid "Options"
+msgstr ""
+
 #: src/includes/classes/Utils/MenuPage.php:52
 msgid "%1$s"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:132
-#: src/includes/classes/Utils/PostType.php:135
-#: src/includes/classes/Utils/PostType.php:139
+#: src/includes/classes/Utils/PostType.php:141
+#: src/includes/classes/Utils/PostType.php:144
+#: src/includes/classes/Utils/PostType.php:148
 msgid "Snippets"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:136
-#: src/includes/classes/Utils/PostType.php:138
+#: src/includes/classes/Utils/PostType.php:145
+#: src/includes/classes/Utils/PostType.php:147
 msgid "Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:141
+#: src/includes/classes/Utils/PostType.php:150
 msgid "All Snippets"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:142
+#: src/includes/classes/Utils/PostType.php:151
 msgid "Add Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:143
+#: src/includes/classes/Utils/PostType.php:152
 msgid "Add New Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:144
+#: src/includes/classes/Utils/PostType.php:153
 msgid "New Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:145
+#: src/includes/classes/Utils/PostType.php:154
 msgid "Edit Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:146
+#: src/includes/classes/Utils/PostType.php:155
 msgid "View Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:148
+#: src/includes/classes/Utils/PostType.php:157
 msgid "Search Snippets"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:149
+#: src/includes/classes/Utils/PostType.php:158
 msgid "No Snippets Found"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:150
+#: src/includes/classes/Utils/PostType.php:159
 msgid "No Snippets Found in Trash"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:152
+#: src/includes/classes/Utils/PostType.php:161
 msgid "Insert Into Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:153
+#: src/includes/classes/Utils/PostType.php:162
 msgid "Upload to this Snippet"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:155
+#: src/includes/classes/Utils/PostType.php:164
 msgid "Set Featured Image"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:156
+#: src/includes/classes/Utils/PostType.php:165
 msgid "Remove Featured Image"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:157
+#: src/includes/classes/Utils/PostType.php:166
 msgid "Use as Featured Image"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:159
+#: src/includes/classes/Utils/PostType.php:168
 msgid "Snippets List"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:160
+#: src/includes/classes/Utils/PostType.php:169
 msgid "Snippets List Navigation"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:162
+#: src/includes/classes/Utils/PostType.php:171
 msgid "Snippet Archives"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:163
+#: src/includes/classes/Utils/PostType.php:172
 msgid "Filter Snippets List"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:164
+#: src/includes/classes/Utils/PostType.php:173
 msgid "Parent Snippet:"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:189
-#: src/includes/classes/Utils/PostType.php:192
+#: src/includes/classes/Utils/PostType.php:198
+#: src/includes/classes/Utils/PostType.php:201
 msgid "Snippet Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:193
-#: src/includes/classes/Utils/PostType.php:195
+#: src/includes/classes/Utils/PostType.php:202
+#: src/includes/classes/Utils/PostType.php:204
 msgid "Snippet Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:196
+#: src/includes/classes/Utils/PostType.php:205
 msgid "Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:198
-#: src/includes/classes/Utils/PostType.php:216
+#: src/includes/classes/Utils/PostType.php:207
+#: src/includes/classes/Utils/PostType.php:225
 msgid "All Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:199
+#: src/includes/classes/Utils/PostType.php:208
 msgid "Add New Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:200
+#: src/includes/classes/Utils/PostType.php:209
 msgid "New Category Name"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:201
+#: src/includes/classes/Utils/PostType.php:210
 msgid "Add or Remove Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:202
+#: src/includes/classes/Utils/PostType.php:211
 msgid "View Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:203
+#: src/includes/classes/Utils/PostType.php:212
 msgid "Edit Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:204
+#: src/includes/classes/Utils/PostType.php:213
 msgid "Update Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:206
+#: src/includes/classes/Utils/PostType.php:215
 msgid "Search Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:207
+#: src/includes/classes/Utils/PostType.php:216
 msgid "No Categories Found"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:208
+#: src/includes/classes/Utils/PostType.php:217
 msgid "No Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:210
+#: src/includes/classes/Utils/PostType.php:219
 msgid "Choose From the Most Used Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:211
+#: src/includes/classes/Utils/PostType.php:220
 msgid "Separate Categories w/ Commas"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:213
+#: src/includes/classes/Utils/PostType.php:222
 msgid "Categories List"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:214
+#: src/includes/classes/Utils/PostType.php:223
 msgid "Categories List Navigation"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:217
+#: src/includes/classes/Utils/PostType.php:226
 msgid "Popular Categories"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:218
+#: src/includes/classes/Utils/PostType.php:227
 msgid "Parent Category"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:219
+#: src/includes/classes/Utils/PostType.php:228
 msgid "Parent Category:"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:245
-#: src/includes/classes/Utils/PostType.php:248
+#: src/includes/classes/Utils/PostType.php:254
+#: src/includes/classes/Utils/PostType.php:257
 msgid "Snippet Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:249
-#: src/includes/classes/Utils/PostType.php:251
+#: src/includes/classes/Utils/PostType.php:258
+#: src/includes/classes/Utils/PostType.php:260
 msgid "Snippet Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:252
+#: src/includes/classes/Utils/PostType.php:261
 msgid "Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:254
-#: src/includes/classes/Utils/PostType.php:272
+#: src/includes/classes/Utils/PostType.php:263
+#: src/includes/classes/Utils/PostType.php:281
 msgid "All Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:255
+#: src/includes/classes/Utils/PostType.php:264
 msgid "Add New Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:256
+#: src/includes/classes/Utils/PostType.php:265
 msgid "New Tag Name"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:257
+#: src/includes/classes/Utils/PostType.php:266
 msgid "Add or Remove Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:258
+#: src/includes/classes/Utils/PostType.php:267
 msgid "View Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:259
+#: src/includes/classes/Utils/PostType.php:268
 msgid "Edit Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:260
+#: src/includes/classes/Utils/PostType.php:269
 msgid "Update Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:262
+#: src/includes/classes/Utils/PostType.php:271
 msgid "Search Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:263
+#: src/includes/classes/Utils/PostType.php:272
 msgid "No Tags Found"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:264
+#: src/includes/classes/Utils/PostType.php:273
 msgid "No Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:266
+#: src/includes/classes/Utils/PostType.php:275
 msgid "Choose From the Most Used Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:267
+#: src/includes/classes/Utils/PostType.php:276
 msgid "Separate Tags w/ Commas"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:269
+#: src/includes/classes/Utils/PostType.php:278
 msgid "Tags List"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:270
+#: src/includes/classes/Utils/PostType.php:279
 msgid "Tags List Navigation"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:273
+#: src/includes/classes/Utils/PostType.php:282
 msgid "Popular Tags"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:274
+#: src/includes/classes/Utils/PostType.php:283
 msgid "Parent Tag"
 msgstr ""
 
-#: src/includes/classes/Utils/PostType.php:275
+#: src/includes/classes/Utils/PostType.php:284
 msgid "Parent Tag:"
 msgstr ""
 
@@ -278,11 +282,31 @@ msgid "You can browse our <a href=\"%1$s\" target=\"_blank\">knowledge base</a> 
 msgstr ""
 
 #: src/includes/templates/admin/menu-pages/options/default.php:41
-msgid "Content Filters"
+msgid "Publicly Queryable?"
 msgstr ""
 
 #: src/includes/templates/admin/menu-pages/options/default.php:42
-msgid "This controls which built-in WordPress content filters are applied to content in a Snippet. All content filters suggested.<hr />Note: <code>jetpack-markdown</code> is only possible if you have Jetpack installed with Markdown enabled. The same is true for <code>jetpack-latex</code>."
+msgid "This determines whether Snippets themselves can be viewed in a stand-alone fashion (i.e., accessible via their own Permalink).<hr />As opposed to being hidden from the public and only used as a design tool behind-the-scenes, within WordPress."
+msgstr ""
+
+#: src/includes/templates/admin/menu-pages/options/default.php:47
+msgid "Yes, Snippets are always public (via their own permalink)."
+msgstr ""
+
+#: src/includes/templates/admin/menu-pages/options/default.php:48
+msgid "Yes, but only while being edited (makes it easier to test/preview Snippets)."
+msgstr ""
+
+#: src/includes/templates/admin/menu-pages/options/default.php:49
+msgid "No, never allow a Snippet to be viewed stand-alone."
+msgstr ""
+
+#: src/includes/templates/admin/menu-pages/options/default.php:54
+msgid "Content Filters"
+msgstr ""
+
+#: src/includes/templates/admin/menu-pages/options/default.php:55
+msgid "This controls which built-in WordPress content filters are applied to content in a Snippet. All are suggested.<hr />Note: <code>jetpack-markdown</code> is only possible if you have Jetpack installed with Markdown enabled. The same is true for <code>jetpack-latex</code>."
 msgstr ""
 
 #. Plugin Name of the plugin/theme
@@ -294,7 +318,7 @@ msgid "https://wpsharks.com/product/wp-snippets-pro"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid "WP Sharks™ plugin wp-snippets."
+msgid "Create Snippets! This plugin adds a new Post Type. Snippets can be included in Posts/Pages/Widgets via shortcodes."
 msgstr ""
 
 #. Author of the plugin/theme

@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Install utils.
  *
- * @since $v Initial release.
+ * @since 161222.28602 Initial release.
  */
 class Installer extends SCoreClasses\SCore\Base\Core
 {
     /**
      * Version-specific upgrades.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param array $history Install history.
      */
@@ -50,7 +50,7 @@ class Installer extends SCoreClasses\SCore\Base\Core
     /**
      * Other install routines.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param array $history Install history.
      */
@@ -62,7 +62,7 @@ class Installer extends SCoreClasses\SCore\Base\Core
     /**
      * Add capabilities.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      */
     protected function addCaps()
     {

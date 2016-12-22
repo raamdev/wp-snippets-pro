@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Shortcode utils.
  *
- * @since $v Initial release.
+ * @since 161222.28602 Initial release.
  */
 class Shortcode extends SCoreClasses\SCore\Base\Core
 {
     /**
      * Parsing?
      *
-     * @since $v
+     * @since 161222.28602
      *
      * @type bool
      */
@@ -47,7 +47,7 @@ class Shortcode extends SCoreClasses\SCore\Base\Core
     /**
      * Class constructor.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param Classes\App $App Instance.
      */
@@ -61,7 +61,7 @@ class Shortcode extends SCoreClasses\SCore\Base\Core
     /**
      * Shortcode.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param array|string $atts      Shortcode attributes.
      * @param string|null  $content   Shortcode content.

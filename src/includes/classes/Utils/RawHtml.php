@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Raw HTML utils.
  *
- * @since $v Initial release.
+ * @since 161222.28602 Initial release.
  */
 class RawHtml extends SCoreClasses\SCore\Base\Core
 {
     /**
      * On WP `get_post_metadata` filter.
      *
-     * @since $v Initial release.
+     * @since 161222.28602 Initial release.
      *
      * @param mixed      $value    Value.
      * @param string|int $post_id  Post ID.

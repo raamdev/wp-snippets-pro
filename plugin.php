@@ -4,7 +4,7 @@
  *
  * @wp-plugin
  *
- * Version: 161222.26385
+ * Version: 161222.28602
  * Text Domain: wp-snippets
  * Plugin Name: WP Snippets Pro
  *
