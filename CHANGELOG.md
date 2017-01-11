@@ -1,3 +1,7 @@
+## $v
+
+- Bug fix. Shortcode error due to incorrect 'by reference' value. See [Issue #1](https://github.com/websharks/wp-snippets-pro/issues/1).
+
 ## v161222.28602
 
 - Initial release.
