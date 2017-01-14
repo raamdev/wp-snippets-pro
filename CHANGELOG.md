@@ -1,3 +1,7 @@
+## $v
+
+- Enhancing security by removing `basename(__FILE__)` from direct access notices.
+
 ## v170111.29996
 
 - Bug fix. Missing shortcode content output. See [Issue #1](https://github.com/websharks/wp-snippets-pro/issues/1).
