@@ -42,7 +42,7 @@ class App extends SCoreClasses\App
      *
      * @type string Version.
      */
-    const VERSION = '170111.29996'; //v//
+    const VERSION = '170128.1121'; //v//
 
     /**
      * Constructor.
@@ -88,6 +88,7 @@ class App extends SCoreClasses\App
                 'public' => 'if_user_can_edit',
 
                 'content_filters' => [
+                    'wp-markdown-extra',
                     'jetpack-markdown',
                     'jetpack-latex',
                     'wptexturize',
@@ -143,6 +144,9 @@ class App extends SCoreClasses\App
         // Markdown is supported in the Post Type config. See {@link Utils->PostType{}}.
         // Therefore, these filters only apply to `[snippet_template]content[/snippet_template]`.
 
+        if (in_array('wp-markdown-extra', $content_filters, true) && s::canWpMdExtra()) {
+            s::addFilter('shortcode_content', s::class.'::wpMdExtra', -10000);
+        }
         if (in_array('jetpack-markdown', $content_filters, true) && s::jetpackCanMarkdown()) {
             s::addFilter('shortcode_content', s::class.'::jetpackMarkdown', -10000);
         }

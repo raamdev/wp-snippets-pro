@@ -1,5 +1,8 @@
 ## $v
 
+- Updating minimum required version of the WP Sharks Core.
+- Updating scripts/styles to bring them inline with core standards.
+- Adding support for `wp-markdown-extra` filter configuration.
 - Enhancing security by removing `basename(__FILE__)` from direct access notices.
 
 ## v170111.29996

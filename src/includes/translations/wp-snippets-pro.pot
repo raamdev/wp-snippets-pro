@@ -2,9 +2,9 @@
 # This file is distributed under the same license as the WP Snippets Pro package.
 msgid ""
 msgstr ""
-"Project-Id-Version: WP Snippets Pro 170111.29996\n"
+"Project-Id-Version: WP Snippets Pro 170128.1121\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-snippets-pro\n"
-"POT-Creation-Date: 2017-01-11 08:20:27+00:00\n"
+"POT-Creation-Date: 2017-01-28 00:18:44+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -273,40 +273,40 @@ msgstr ""
 msgid "Parent Tag:"
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:36
+#: src/includes/templates/admin/menu-pages/options/default.php:39
 msgid "General Options"
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:37
+#: src/includes/templates/admin/menu-pages/options/default.php:40
 msgid "You can browse our <a href=\"%1$s\" target=\"_blank\">knowledge base</a> to learn more about these options."
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:41
+#: src/includes/templates/admin/menu-pages/options/default.php:44
 msgid "Publicly Queryable?"
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:42
+#: src/includes/templates/admin/menu-pages/options/default.php:45
 msgid "This determines whether Snippets themselves can be viewed in a stand-alone fashion (i.e., accessible via their own Permalink).<hr />As opposed to being hidden from the public and only used as a design tool behind-the-scenes, within WordPress."
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:47
+#: src/includes/templates/admin/menu-pages/options/default.php:50
 msgid "Yes, Snippets are always public (via their own permalink)."
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:48
+#: src/includes/templates/admin/menu-pages/options/default.php:51
 msgid "Yes, but only while being edited (makes it easier to test/preview Snippets)."
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:49
+#: src/includes/templates/admin/menu-pages/options/default.php:52
 msgid "No, never allow a Snippet to be viewed stand-alone."
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:54
+#: src/includes/templates/admin/menu-pages/options/default.php:57
 msgid "Content Filters"
 msgstr ""
 
-#: src/includes/templates/admin/menu-pages/options/default.php:55
-msgid "This controls which built-in WordPress content filters are applied to content in a Snippet. All are suggested.<hr />Note: <code>jetpack-markdown</code> is only possible if you have Jetpack installed with Markdown enabled. The same is true for <code>jetpack-latex</code>."
+#: src/includes/templates/admin/menu-pages/options/default.php:58
+msgid "This controls which built-in WordPress content filters are applied to content in a Snippet. All are suggested.<hr />Note: <code>wp-markdown-extra</code> is only possible if you have WP Markdown Extra installed.<hr /><code>jetpack-markdown</code> is only possible if you have Jetpack installed with Markdown enabled. The same is true for <code>jetpack-latex</code>."
 msgstr ""
 
 #. Plugin Name of the plugin/theme
